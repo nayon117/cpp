@@ -1,8 +1,7 @@
 /*
 input:
-HelloWorld
+NonEmpty
 output:
-Original Size : 10 Capacity : 15
- After shrinking Hello 5
-After Expanding Hello##### 10
+string is not empty
+After clearing: String is empty
 */
