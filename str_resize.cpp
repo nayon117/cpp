@@ -20,6 +20,5 @@ int main () {
   str.resize(10,'#');
   cout << "After Expanding " << str << " " << str.size() << endl;
 
-
   return 0;
 }

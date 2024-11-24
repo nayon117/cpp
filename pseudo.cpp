@@ -1,5 +1,4 @@
 /**
- * find the minimum number
- * check it's only appear once or not
- * if appear one then print luckey otherwise unlucky
+ * take a input of number
+ * find out which character is more appear ADAAAA
  */

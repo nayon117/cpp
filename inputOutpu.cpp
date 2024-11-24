@@ -1,7 +1,7 @@
 /*
 input:
-I love programming and programming is fun
-programming
+6
+DADADA
 output:
-I love C++ and C++ is fun 
+Friendship
 */
