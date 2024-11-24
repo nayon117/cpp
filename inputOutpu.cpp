@@ -1,9 +1,7 @@
 /*
 input:
-Welcome to stringstream!
+I love programming and programming is fun
+programming
 output:
-Welcome
-to
-stringstream!
-Welcome to stringstream! end
+I love C++ and C++ is fun 
 */
