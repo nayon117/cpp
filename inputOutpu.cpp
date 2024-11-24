@@ -1,11 +1,8 @@
 /*
 input:
-2
-4
-1 6 3 7
-3
-3 1 2
+HelloWorld
 output:
-1 6 3 7 6 6 7 6 7 7 
-3 1 2 3 2 3 
+Original Size : 10 Capacity : 15
+ After shrinking Hello 5
+After Expanding Hello##### 10
 */
