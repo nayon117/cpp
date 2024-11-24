@@ -1,7 +1,9 @@
 /*
 input:
-NonEmpty
+Welcome to stringstream!
 output:
-string is not empty
-After clearing: String is empty
+Welcome
+to
+stringstream!
+Welcome to stringstream! end
 */
