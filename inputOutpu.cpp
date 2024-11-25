@@ -1,7 +1,6 @@
 /*
 input:
-6
-DADADA
+I love you
 output:
-Friendship
+I evol uoy
 */
