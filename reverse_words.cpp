@@ -15,6 +15,7 @@ int main () {
   stringstream ss(str);
   string word;
   ss >> word;
+  reverse(word.begin(),word.end());
   cout << word;
   while(ss >> word){
     reverse(word.begin(),word.end());

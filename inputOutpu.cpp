@@ -1,6 +1,9 @@
 /*
 input:
-I love you
+2
+ipAsu ccsit
+ey gpt
 output:
-I evol uoy
+icpcAssiut
+egypt
 */
