@@ -17,14 +17,14 @@ int main () {
     cin >> a[i].name >> a[i].roll >> a[i].marks;
   }
 
-  int MAX = INT_MIN;
+  int MIN = INT_MAX;
 
   for (int i = 0; i < n; i++){
-    if(a[i].marks > MAX){
-      MAX = a[i].marks;
+    if(a[i].marks < MIN){
+      MIN = a[i].marks;
     }
   }
-    cout << MAX << endl;
+    cout << MIN << endl;
 
   return 0;
 }
