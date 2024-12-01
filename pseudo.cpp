@@ -1,4 +1,6 @@
 /**
- * take a input of number
- * find out which character is more appear ADAAAA
+ * if n is divisible not divicible then -1 return
+ * if n is divisible then check odd count and even count
+ * return result (divided value - even)
  */
+
