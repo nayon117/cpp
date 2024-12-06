@@ -1,18 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main () {
-  int arr[10005];
-  int n;
-  cin >> n;
-  for (int i = 0; i < n; i++){
-    cin >> arr[i] ;
-  }
+int main()
+{
+    int n;
+    cin >> n;
 
-  for (int i = 0; i < n; i++){
-    cout << arr[i] << " ";
-    
-  }
+    string str;
+    cin >> str; 
 
-  return 0;
+    sort(str.begin(), str.end()); 
+
+    cout << str << endl; 
+
+    return 0;
 }
