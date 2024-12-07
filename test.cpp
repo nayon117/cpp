@@ -1,17 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main()
-{
-    int n;
-    cin >> n;
+int main () {
+  
 
-    string str;
-    cin >> str; 
-
-    sort(str.begin(), str.end()); 
-
-    cout << str << endl; 
-
-    return 0;
+  return 0;
 }
