@@ -1,11 +1,3 @@
-Best to worst complexity
+construct a vector with n elements
 
-N = 1000;
-
-constant : O(1)       - 1
-Logarithmic: O(logN)  - 10
-Square Root: O(sqrtN) - 32
-Linear : O(N)         - 1000
-Linearithmic: O(NlogN)- 1000 * 10 = 10000
-Quadritic : O(N * N)  - 1000* 1000 = 1000000
-
+vector <type > v[n]
